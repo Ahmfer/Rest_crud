@@ -1,6 +1,6 @@
 package com.dittföretag.chatapp.controller;
 
-import com.dittföretag.chatapp.entity.Channel;  // Rätt import för din Channel
+import com.dittföretag.chatapp.entity.Channel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import com.dittföretag.chatapp.repository.ChannelRepository;
